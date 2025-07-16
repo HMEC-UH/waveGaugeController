@@ -42,3 +42,17 @@ Prior to usage, the user will have to import the following libraries on their co
 All code for this project was develoed in Visual Studios Code, and should be fully understandable through the provided comments. 
 
 Additionally, there is Arduino code posted for both Platform IO and the Arduino IDE. Just ensure that you are using the correct version. 
+
+## Bill of Materials (BOM)
+
+The bill of materials for this project are posted as a .csv file in the repository. 
+
+# Assembly Overview
+
+The assembly for this project is simple and straightforward, as is displayed throughout a few steps below.
+
+
+
+# Developer Notes
+
+I'm Charlie Koh. At the time of this development, I am a rising Junior at Punahou High School. This project was developed in collaboration with the lab of Dr. Troy Heitmann.
