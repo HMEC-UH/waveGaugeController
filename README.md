@@ -51,6 +51,8 @@ The bill of materials for this project are posted as a .csv file in the reposito
 
 The assembly for this project is simple and straightforward, as is displayed throughout a few steps below.
 
+## Cycloidal Assembly
+
 ### Step 1: Carrier Assembly
 
 Assemble the carrier as displayed below. Use heat set inserts on the topside of the cycloidal output carrier.
@@ -73,9 +75,31 @@ Place the cycloidal disks into the housing as shown below, and screw on the uppe
 
 ![Carrier Insertion](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/fullHousingAssembly.png)
 
-### Lead Screw Mounting
+### Step 5: Output to Lead Screw
 
 Screw the lead screw into the negative T12 thread on the output side of the cycloidal gearbox. 
+
+![Lead Screw Insert](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/leadScrewInsert.png)
+
+## Remaining Construction
+
+### Step 1: Assemble Lower Receiver
+
+Pressfit 32mmx20mmx7mm Bearing into the top and bottom parts of the lower receiver. Insert the lower negative lead screw thread in-between the two bearings, and then secure both parts together with screws. 
+
+![Full Lower Assembly](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/lowerReceiverAssembly.png)
+
+### Step 2: Assemble Vertical Carrier
+
+Attach the T12 Nut to the Vertical Carrier (using M4x30mm bolts and M4 locknut), and loosely screw in the clamp for the wave gauge. 
+
+![Vertical Carrier Assembly](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/verticalCarrier.png)
+
+### Step 3: Full Assembly
+
+Assemble the entire mechanism as displayed below. The stepper motor and gearbox should be mounted at the top of the lead screw/extrusion. The vertical carrier (with the copper nut) should be mounted somewhere approximately halfway down the lead screw (with the copper nut on the lead screw), with the negative offset 8020 1010 extrusion profile mounted over the extrusion. Finally, mount the lower receiver in the same fashion (the lower reciever negative thread should screw onto the lead screw). 
+
+![Final Assembly](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/finalAssembly.png)
 
 # Developer Notes
 
