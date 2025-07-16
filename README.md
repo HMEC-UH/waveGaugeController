@@ -51,7 +51,31 @@ The bill of materials for this project are posted as a .csv file in the reposito
 
 The assembly for this project is simple and straightforward, as is displayed throughout a few steps below.
 
+### Step 1: Carrier Assembly
 
+Assemble the carrier as displayed below. Use heat set inserts on the topside of the cycloidal output carrier.
+
+![Carrier Assembly](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/outputCarrier.png)
+
+### Step 2: Housing Assembly
+
+Assemble the housing as shown below (insert the 50mmx6mm stainless steel dowels into the lower housing)
+
+![Housing Assembly](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/housingAssembly.png)
+
+### Step 3: Motor Mounting
+
+Screw the motor to the upper housing using M4x20mm bolts and M4 lock nuts.
+
+### Step 4: Carrier Insertion and Upper Housing Mounting
+
+Place the cycloidal disks into the housing as shown below, and screw on the upper housing (ensure that the D-Shaft bore of the eccentric bearing and the D-shaft of the motor are aligned. It should fit snugly). It will take some gentle pressure to ease the upper housing onto the gearbox. 
+
+![Carrier Insertion](https://github.com/HMEC-UH/waveGaugeController/blob/main/Assembly%20Image%20Diagrams/fullHousingAssembly.png)
+
+### Lead Screw Mounting
+
+Screw the lead screw into the negative T12 thread on the output side of the cycloidal gearbox. 
 
 # Developer Notes
 
